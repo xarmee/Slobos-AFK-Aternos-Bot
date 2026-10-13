@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "xarme1656.aternos.me:62288",
+    "port": 62288,
     "version": "",
     "try-creative": false
   },
